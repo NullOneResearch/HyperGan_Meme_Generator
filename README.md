@@ -12,7 +12,7 @@
 
 
 
-![Image alt](https://github.com/NullOneResearch/HyperGan_Meme_Generator/raw/master/Пикча1.png)
-![Image alt](https://github.com/NullOneResearch/HyperGan_Meme_Generator/raw/master/Пикча2.png)
-![Image alt](https://github.com/NullOneResearch/HyperGan_Meme_Generator/raw/master/Пикча3.png)
+![Image alt](https://github.com/NullOneResearch/HyperGan_Meme_Generator/raw/master/images/Пикча1.png)
+![Image alt](https://github.com/NullOneResearch/HyperGan_Meme_Generator/raw/master/images/Пикча2.png)
+![Image alt](https://github.com/NullOneResearch/HyperGan_Meme_Generator/raw/master/images/Пикча3.png)
 
